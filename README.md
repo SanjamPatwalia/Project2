@@ -14,8 +14,6 @@
     - Label Encoder
     - VectorAssembler
     - Standard Scaler
-    - Encoding Categorical Variables
-    - Data Normalization
 - Predictive Analysis
     - Sampling
     - Classification Models and Results
@@ -124,3 +122,15 @@ Vector Assembler was used to combine a list of columns into a single vector colu
 After the vector assembler was performed, we then scaled the vector features using Standard Scaler which standardizes the features by subracting the mean and then scaling to uni variance.
 
 ![p11](/assets/p11.png)
+
+### Predictive Analysis
+
+#### Test-Train Data Split
+
+First step is spliting data into two and selected randomly(seed 2018) %80 of data as Training set and %20 of data as Test Set.
+
+## Logistic Regression
+
+- First Algorithm Logistic Regression was used which is the most commonly used algorithm for solving all classification problems.
+
+![p12](/assets/p12.png)
