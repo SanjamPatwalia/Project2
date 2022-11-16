@@ -160,3 +160,7 @@ All the models were saved as serialized object, below screenshot shows the code 
 
 ![p9999](/assets/p9999.png) ![p16](/assets/p16.png)  ![p17](/assets/p17.png)
 
+### Summary
+In conclusion, Gradient Boosted Tree algorithm has better performance than other algorithms based on the accuracy of the model.
+
+![p18](/assets/p18.png)
