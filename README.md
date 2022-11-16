@@ -129,8 +129,14 @@ After the vector assembler was performed, we then scaled the vector features usi
 
 First step is spliting data into two and selected randomly(seed 2018) %80 of data as Training set and %20 of data as Test Set.
 
-## Logistic Regression
+#### Logistic Regression
 
 - First Algorithm Logistic Regression was used which is the most commonly used algorithm for solving all classification problems.
 
 ![p12](/assets/p12.png)
+
+#### Random Forest
+
+- Second Algorithm Random Forest was used for solving our classification problems.
+
+![p13](/assets/p13.png)
