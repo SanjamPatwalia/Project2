@@ -53,3 +53,14 @@
     20 - Nr.employed: number of employees - quarterly indicator (numeric)
     
 ### Descriptive Analysis
+- The dataset given has two types of variables which include continous variables and categorical variables.
+
+#### Continuous Variables
+
+- 'age‘ , 'duration', 'campaign', ‘pdays ‘, 'previous', 'emp.var.rate‘
+'cons.price.idx', 'cons.conf.idx', 'euribor3m', 'nr.employed'
+
+#### Categorical Variables
+
+- 'job', 'marital', 'education', 'default', 'housing', 'loan’
+'contact', 'month', 'day_of_week', 'poutcome', 'y'
