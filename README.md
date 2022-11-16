@@ -12,6 +12,7 @@
     - Creating New Column Age
     - String Indexer
     - Label Encoder
+    - VectorAssembler
     - Encoding Categorical Variables
     - Data Normalization
 - Predictive Analysis
@@ -111,7 +112,11 @@ We used Label Encoder for our tagert variable 'y'.
 
 ![p8](/assets/p8.png)
 
+#### VectorAssembler
 
+Vector Assembler was used to combine a list of columns into a single vector column. I was done in order to train ML models like logistic regression, decision trees, random forest etc.
+
+![p9](/assets/p9.png)      ![p10](/assets/p10.png)
 
 
 
