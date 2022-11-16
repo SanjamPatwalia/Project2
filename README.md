@@ -75,3 +75,17 @@
 - One thing to note from this screenshot is target variable is not balanced.
 
 ![p2](/assets/p2.png)     ![p3](/assets/p3.png) 
+
+### Data Manipulation
+
+#### Correlation
+
+From the below screenshot you can see high correlation between 4 columns, which include cons.price.idx, euribor3m, nr.employed,emp.var.rate. Therefore we dropped these columns.
+
+![p4](/assets/p4.png)
+
+#### Null Values
+
+No null values were observed
+
+![p5](/assets/p5.png)
