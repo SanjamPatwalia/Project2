@@ -1,5 +1,12 @@
 # Project2 - Deposit Opening Decision
 
+### GITHUB
+- src folder : It contains the source file
+- Models folder : It has the saved model in pickle file
+- assets folder: It has the screenshots of all the code that is used in the report
+- code.ipynb : This is the jupyter notebook containing the code
+- READ.md : Report
+
  ### AGENDA
 - DataSet 
     - DataSet Information
