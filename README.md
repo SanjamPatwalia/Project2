@@ -140,3 +140,9 @@ First step is spliting data into two and selected randomly(seed 2018) %80 of dat
 - Second Algorithm Random Forest was used for solving our classification problems.
 
 ![p13](/assets/p13.png)
+
+#### Decision Tree
+
+- Third Algorithm Decision Tree was used for solving our classification problems.
+
+![p14](/assets/p14.png)
