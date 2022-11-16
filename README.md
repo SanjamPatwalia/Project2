@@ -11,6 +11,7 @@
     - Null-Missing Value Analysis
     - Creating New Column Age
     - String Indexer
+    - Label Encoder
     - Encoding Categorical Variables
     - Data Normalization
 - Predictive Analysis
@@ -99,9 +100,18 @@ Age was created in to different bins.
 ![p6](/assets/p6.png)
 
 #### String Indexer
+
 String Indexer was created on categorical variable to map a string column to a index column that will be treated as a categorical column by spark. ( Below Screenshot showing a sample of one of the variable).
 
 ![p7](/assets/p7.png)
+
+#### Label Encoder
+
+We used Label Encoder for our tagert variable 'y'.
+
+![p8](/assets/p8.png)
+
+
 
 
 
