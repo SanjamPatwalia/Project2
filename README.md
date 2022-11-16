@@ -13,6 +13,7 @@
     - String Indexer
     - Label Encoder
     - VectorAssembler
+    - Standard Scaler
     - Encoding Categorical Variables
     - Data Normalization
 - Predictive Analysis
@@ -118,5 +119,8 @@ Vector Assembler was used to combine a list of columns into a single vector colu
 
 ![p9](/assets/p9.png)      ![p10](/assets/p10.png)
 
+#### Standard Scaler
 
+After the vector assembler was performed, we then scaled the vector features using Standard Scaler which standardizes the features by subracting the mean and then scaling to uni variance.
 
+![p11](/assets/p11.png)
