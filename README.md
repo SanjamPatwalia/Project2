@@ -21,3 +21,35 @@
 - The data is about an XYZ bank’s direct marketing campaign. Marketing campaigns were driven by telephone calls.
 - DataSet Often, more than one contact to the same client was required, in order to access if the product ( deposit) would be ('yes') or not ('no') subscribed.
 - The purpose of the classification is to forecast whether the customer will signup (yes/no) a term deposit (variable y).
+- The dataset is having 20 entries/columns, sorted by date between May 2008 and November 2010.
+
+### Attribute Information
+
+    1 - Age (numeric)
+    2 - Job : type of job (categorical)
+    3 - Marital : marital status (categorical)
+    4 - Education (categorical)
+    5 - Default: has credit in default? (categorical)
+    6 - Housing: has housing loan? (categorical)
+    7 - Loan: has personal loan? (categorical)
+
+#### related with the last contact of the current campaign:
+    8 - Contact: contact communication type (categorical)
+    9 - Month: last contact month of year (categorical)
+    10 - Day_of_week: last contact day of the week (categorical)
+    11 - Duration: last contact duration, in seconds (numeric)
+
+#### other attributes:
+    12 - Campaign: number of contacts performed during this campaign and for this client (numeric, includes last contact)
+    13 - Pdays: number of days that passed by after the client was last contacted from a previous campaign (numeric; 999 means client was not previously contacted)
+    14 - Previous: number of contacts performed before this campaign and for this client (numeric)
+    15 - Poutcome: outcome of the previous marketing campaign (categorical)
+
+#### social and economic context attributes
+    16 - Emp.var.rate: employment variation rate - quarterly indicator (numeric)
+    17 - Cons.price.idx: consumer price index - monthly indicator (numeric) 
+    18 - Cons.conf.idx: consumer confidence index - monthly indicator (numeric) 
+    19 - Euribor3m: euribor 3 month rate - daily indicator (numeric)
+    20 - Nr.employed: number of employees - quarterly indicator (numeric)
+    
+### Descriptive Analysis
