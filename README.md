@@ -156,7 +156,7 @@ First step is spliting data into two and selected randomly(seed 2018) %80 of dat
 
 #### Saving The Models
 
-All the models were saved as serialized object, below screenshot shows the code as well as saved model with pickel files.
+All the models were saved as serialized object, below screenshot shows the code as well as saved model with pickel files (Showing sample code of only 2 models).
 
-![p9999](/assets/p9999.png)
+![p9999](/assets/p9999.png) ![p16](/assets/p16.png)  ![p17](/assets/p17.png)
 
