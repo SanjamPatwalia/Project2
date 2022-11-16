@@ -74,4 +74,4 @@
 ### Visualizing – Categorical Variables
 - One thing to note from this screenshot is target variable is not balanced.
 
-![p2](/assets/p1.png)     ![p3](/assets/p3.png) 
+![p2](/assets/p2.png)     ![p3](/assets/p3.png) 
