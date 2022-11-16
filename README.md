@@ -145,4 +145,10 @@ First step is spliting data into two and selected randomly(seed 2018) %80 of dat
 
 - Third Algorithm Decision Tree was used for solving our classification problems.
 
+![p15](/assets/p15.png)
+
+#### Grandient Boosted Tree
+
+- Third Algorithm Gradient Boosted Tree was used for solving our classification problems.
+
 ![p14](/assets/p14.png)
