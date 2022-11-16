@@ -9,6 +9,7 @@
     - Correlations
 - Data Manipulation
     - Null-Missing Value Analysis
+    - Creating New Column Age
     - Encoding Categorical Variables
     - Data Normalization
 - Predictive Analysis
@@ -89,3 +90,9 @@ From the below screenshot you can see high correlation between 4 columns, which 
 No null values were observed
 
 ![p5](/assets/p5.png)
+
+#### Creating new column age
+
+Age was created in to different bins.
+
+![p6](/assets/p6.png)
