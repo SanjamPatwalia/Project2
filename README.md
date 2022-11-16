@@ -69,4 +69,4 @@
 
 - We can see from below graph for continous variables is that neither of the variable have normal distribution.
 
-![p1](/assets/p1.PNG) 
+![p1](/assets/p1.png) 
