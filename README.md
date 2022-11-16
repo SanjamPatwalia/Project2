@@ -17,6 +17,7 @@
 - Predictive Analysis
     - Sampling
     - Classification Models and Results
+    - Saving The Models
 - Summary
 
 ### Dataset Information
@@ -152,3 +153,10 @@ First step is spliting data into two and selected randomly(seed 2018) %80 of dat
 - Third Algorithm Gradient Boosted Tree was used for solving our classification problems.
 
 ![p14](/assets/p14.png)
+
+#### Saving The Models
+
+All the models were saved as serialized object, below screenshot shows the code as well as saved model with pickel files.
+
+![p9999](/assets/p9999.png)
+
