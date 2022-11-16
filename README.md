@@ -10,6 +10,7 @@
 - Data Manipulation
     - Null-Missing Value Analysis
     - Creating New Column Age
+    - String Indexer
     - Encoding Categorical Variables
     - Data Normalization
 - Predictive Analysis
@@ -96,3 +97,6 @@ No null values were observed
 Age was created in to different bins.
 
 ![p6](/assets/p6.png)
+
+#### String Indexer
+String Indexer was created on categorical variable to map a string column to a index column that will be treated as a categorical column by spark.
