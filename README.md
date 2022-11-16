@@ -70,3 +70,8 @@
 - We can see from below graph for continous variables is that neither of the variable have normal distribution.
 
 ![p1](/assets/p1.png) 
+
+### Visualizing – Categorical Variables
+- One thing to note from this screenshot is target variable is not balanced.
+
+![p2](/assets/p1.png)     ![p3](/assets/p3.png) 
