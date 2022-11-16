@@ -64,3 +64,9 @@
 
 - 'job', 'marital', 'education', 'default', 'housing', 'loan’
 'contact', 'month', 'day_of_week', 'poutcome', 'y'
+
+### Visualizing – Continuous Variables
+
+- We can see from below graph for continous variables is that neither of the variable have normal distribution.
+
+![p1](/assets/p1.PNG) 
